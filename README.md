@@ -1,4 +1,12 @@
-# Hi, I'm Santiago Rodríguez 👋
+<h1 align="center">Hi, I'm [Your Name] 👋</h1>
+
+<p align="center">
+  <a href="YOUR_PORTFOLIO_URL">Portfolio</a> ·
+  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> ·
+  <a href="mailto:YOUR_EMAIL">Email</a>
+</p>
+
+---
 
 I'm a frontend developer who enjoys turning real-world problems into thoughtful digital solutions that make people's lives easier.
 
@@ -14,14 +22,23 @@ My main focus is building responsive, maintainable web applications, supported b
 
 ## Tools I Use
 
-**Frontend:** React · TypeScript · Tailwind CSS · TanStack Query · Redux Toolkit · Zustand
+### Frontend
 
-**Backend:** Node.js · Express · PostgreSQL · Prisma
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,tailwind,redux" alt="React, TypeScript, Tailwind CSS and Redux Toolkit" />
+  <img src="https://api.iconify.design/logos:react-query-icon.svg" width="48" height="48" alt="TanStack Query" title="TanStack Query" />
+  <img src="https://api.iconify.design/devicon:zustand.svg" width="48" height="48" alt="Zustand" title="Zustand" />
+</p>
 
-**Testing & Workflow:** Playwright · Vitest · Git · GitHub Actions
+### Backend
 
-## How to Reach Me
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma" alt="Node.js, Express, PostgreSQL and Prisma" />
+</p>
 
-- [LinkedIn](https://www.linkedin.com/in/santiagodrm-rodriguez/)
-- [Portfolio](YOUR_PORTFOLIO_URL)
-- [Email](mailto:santiagodrm@gmail.com)
+### Testing & Workflow
+
+<p>
+  <img src="https://api.iconify.design/logos:playwright.svg" width="48" height="48" alt="Playwright" title="Playwright" />
+  <img src="https://skillicons.dev/icons?i=vitest,git,githubactions" alt="Vitest, Git and GitHub Actions" />
+</p>
