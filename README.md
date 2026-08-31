@@ -25,20 +25,28 @@ My main focus is building responsive, maintainable web applications, supported b
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,ts,tailwind,redux" alt="React, TypeScript, Tailwind CSS and Redux Toolkit" />
-  <img src="https://api.iconify.design/logos:react-query-icon.svg" width="48" height="48" alt="TanStack Query" title="TanStack Query" />
-  <img src="https://api.iconify.design/devicon:zustand.svg" width="48" height="48" alt="Zustand" title="Zustand" />
+  <img src="https://api.iconify.design/logos:react.svg" height="48" alt="React" title="React" />
+  <img src="https://api.iconify.design/logos:typescript-icon.svg" height="48" alt="TypeScript" title="TypeScript" />
+  <img src="https://api.iconify.design/logos:tailwindcss-icon.svg" height="48" alt="Tailwind CSS" title="Tailwind CSS" />
+  <img src="https://api.iconify.design/logos:react-query-icon.svg" height="48" alt="TanStack Query" title="TanStack Query" />
+  <img src="https://api.iconify.design/logos:redux.svg" height="48" alt="Redux Toolkit" title="Redux Toolkit" />
+  <img src="https://api.iconify.design/devicon:zustand.svg" height="48" alt="Zustand" title="Zustand" />
 </p>
 
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma" alt="Node.js, Express, PostgreSQL and Prisma" />
+  <img src="https://api.iconify.design/logos:nodejs-icon.svg" height="48" alt="Node.js" title="Node.js" />
+  <img src="https://api.iconify.design/skill-icons:expressjs-dark.svg" height="48" alt="Express" title="Express" />
+  <img src="https://api.iconify.design/logos:postgresql.svg" height="48" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="https://api.iconify.design/skill-icons:prisma.svg" height="48" alt="Prisma" title="Prisma" />
 </p>
 
 ### Testing & Workflow
 
 <p>
-  <img src="https://api.iconify.design/logos:playwright.svg" width="48" height="48" alt="Playwright" title="Playwright" />
-  <img src="https://skillicons.dev/icons?i=vitest,git,githubactions" alt="Vitest, Git and GitHub Actions" />
+  <img src="https://api.iconify.design/logos:playwright.svg" height="48" alt="Playwright" title="Playwright" />
+  <img src="https://api.iconify.design/logos:vitest.svg" height="48" alt="Vitest" title="Vitest" />
+  <img src="https://api.iconify.design/logos:git-icon.svg" height="48" alt="Git" title="Git" />
+  <img src="https://api.iconify.design/logos:github-actions.svg" height="48" alt="GitHub Actions" title="GitHub Actions" />
 </p>
