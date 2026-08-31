@@ -26,11 +26,11 @@ My main focus is building responsive, maintainable web applications, supported b
 
 <p>
   <img src="https://api.iconify.design/logos:react.svg" height="48" alt="React" title="React" />
-  <img src="https://api.iconify.design/logos:typescript-icon.svg" height="60" alt="TypeScript" title="TypeScript" />
+  <img src="https://api.iconify.design/logos:typescript-icon.svg" height="96" alt="TypeScript" title="TypeScript" />
   <img src="https://api.iconify.design/logos:tailwindcss-icon.svg" height="60" alt="Tailwind CSS" title="Tailwind CSS" />
   <img src="https://api.iconify.design/logos:react-query-icon.svg" height="48" alt="TanStack Query" title="TanStack Query" />
   <img src="https://api.iconify.design/logos:redux.svg" height="48" alt="Redux Toolkit" title="Redux Toolkit" />
-  <img src="https://api.iconify.design/devicon:zustand.svg" height="60" alt="Zustand" title="Zustand" />
+  <img src="https://api.iconify.design/devicon:zustand.svg" height="96" alt="Zustand" title="Zustand" />
 </p>
 
 ### Backend
