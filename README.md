@@ -1,9 +1,9 @@
-<h1 align="center">Hi, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi, I'm Santiago Rodríguez 👋</h1>
 
 <p align="center">
   <a href="YOUR_PORTFOLIO_URL">Portfolio</a> ·
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> ·
-  <a href="mailto:YOUR_EMAIL">Email</a>
+  <a href="https://www.linkedin.com/in/santiagodrm-rodriguez/">LinkedIn</a> ·
+  <a href="mailto:santiagodrm@gmail.com">Email</a>
 </p>
 
 ---
