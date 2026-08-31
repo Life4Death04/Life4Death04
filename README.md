@@ -8,17 +8,11 @@
 
 ---
 
-I'm a frontend developer who enjoys turning real-world problems into thoughtful digital solutions that make people's lives easier.
+I'm a recently graduated IT Systems Engineer living in Spain. I enjoy building software that removes friction from people's everyday lives—turning real problems and manual processes into clear, practical digital solutions.
 
-My main focus is building responsive, maintainable web applications, supported by full-stack experience that allows me to understand and contribute to the entire product.
+I specialize in frontend development, but my full-stack background allows me to take a solution beyond the interface, working across system design, APIs, databases, and testing. My engineering education also gave me a strong foundation in requirements analysis, system modeling, reliability analysis, and Agile methodologies (like Scrum and Soft Systems).
 
-## What I'm Currently Working On
-
-🔭 I'm currently building and improving full-stack applications for real-world business needs.
-
-🌱 I'm also strengthening my frontend architecture, testing, and AI-assisted development workflows.
-
-💼 I'm open to frontend developer opportunities.
+Over the last few years, I've applied that foundation while building e-commerce, inventory management, and client-focused systems.
 
 ## Tools I Use
 
