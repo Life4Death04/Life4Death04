@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Santiago Rodríguez 👋
 
-<!--
-**Life4Death04/Life4Death04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a frontend developer who enjoys turning real-world problems into thoughtful digital solutions that make people's lives easier.
 
-Here are some ideas to get you started:
+My main focus is building responsive, maintainable web applications, supported by full-stack experience that allows me to understand and contribute to the entire product.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm Currently Working On
+
+🔭 I'm currently building and improving full-stack applications for real-world business needs.
+
+🌱 I'm also strengthening my frontend architecture, testing, and AI-assisted development workflows.
+
+💼 I'm open to frontend developer opportunities.
+
+## Tools I Use
+
+**Frontend:** React · TypeScript · Tailwind CSS · TanStack Query · Redux Toolkit · Zustand
+
+**Backend:** Node.js · Express · PostgreSQL · Prisma
+
+**Testing & Workflow:** Playwright · Vitest · Git · GitHub Actions
+
+## How to Reach Me
+
+- [LinkedIn](https://www.linkedin.com/in/santiagodrm-rodriguez/)
+- [Portfolio](YOUR_PORTFOLIO_URL)
+- [Email](mailto:santiagodrm@gmail.com)
