@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Santiago Rodríguez 👋</h1>
+<h1 align="center">Hi, I'm Santiago Rodríguez</h1>
 
 <p align="center">
   <a href="https://life4death-personal-server.tail9f1d1a.ts.net/">Portfolio</a> ·
@@ -6,7 +6,7 @@
   <a href="mailto:santiagodrm@gmail.com">Email</a>
 </p>
 
-## 🇬🇧 English
+## English
 
 I'm an IT Systems Engineer living in Spain with 3+ years of experience building digital solutions. I enjoy building software that removes friction from people's everyday lives, turning real problems and manual processes into clear, practical digital solutions.
 
@@ -16,11 +16,11 @@ Over the last few years, I've applied that foundation while building e-commerce,
 
 ---
 
-## 🇪🇸 Versión en español
+## Español
 
-Soy Ingeniero de Sistemas Informáticos y vivo en España. Cuento con más de 3 años de experiencia desarrollando soluciones digitales. Disfruto crear software que reduzca la fricción en la vida cotidiana de las personas, transformando problemas reales y procesos manuales en soluciones digitales claras y prácticas.
+Ingeniero de Sistemas Informáticos viviendo en España, con +3 años de experiencia desarrollando soluciones digitales. Disfruto crear software que reduzca la fricción en la vida cotidiana de las personas, transformando problemas reales y procesos manuales en soluciones digitales claras y prácticas.
 
-Me especializo en desarrollo frontend, pero mi experiencia full-stack me permite llevar una solución más allá de la interfaz, trabajando en diseño de sistemas, APIs, bases de datos y pruebas. Mi formación en ingeniería también me brindó una sólida base en análisis de requisitos, modelado de sistemas, análisis de fiabilidad y metodologías ágiles como Scrum y Soft Systems Methodology.
+Me especializo en desarrollo frontend, pero mi experiencia full-stack me permite llevar una solución más allá de la interfaz, trabajando en diseño de sistemas, APIs, bases de datos y pruebas. Mi formación en ingeniería me brinda una sólida base en análisis de requisitos, modelado de sistemas, análisis de fiabilidad y metodologías ágiles como Scrum y Soft Systems Methodology.
 
 Durante los últimos años, he aplicado esta base al desarrollar sistemas de comercio electrónico, gestión de inventario y soluciones orientadas a clientes.
 
